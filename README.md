@@ -2,7 +2,7 @@
 
 Un mini metroidvania hecho en **Godot 4.6.1** en pocas horas. Todo (salas, jugador, enemigos, jefe e interfaz) se genera por código con rectángulos de colores, así que el proyecto es pequeño y fácil de leer.
 
-> *Aquí va una captura o GIF del juego*
+> *Aquí va una captura*
 ![Sala de inicio](docs/muestra.png)
 ## La idea
 
