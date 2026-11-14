@@ -1,0 +1,9 @@
+# Godot 4
+.godot/
+*.translation
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
