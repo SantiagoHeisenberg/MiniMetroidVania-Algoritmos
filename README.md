@@ -2,8 +2,8 @@
 
 Un mini metroidvania hecho en **Godot 4.6.1** en pocas horas. Todo (salas, jugador, enemigos, jefe e interfaz) se genera por código con rectángulos de colores, así que el proyecto es pequeño y fácil de leer.
 
-> 📸 *Aquí va una captura o GIF del juego (agrégala en `docs/` y enlázala aquí).*
-
+> *Aquí va una captura o GIF del juego*
+![Sala de inicio](docs/captura1.png)
 ## La idea
 
 Lo que hace a un metroidvania un metroidvania: **una habilidad que abre el camino**.
@@ -61,4 +61,4 @@ scripts/enemy.gd     # enemigo patrullero + jefe (is_boss = true)
 
 ## Licencia
 
-Añade la licencia que prefieras (por ejemplo MIT) desde GitHub: *Add file → Create new file → `LICENSE`*.
+MIT License
