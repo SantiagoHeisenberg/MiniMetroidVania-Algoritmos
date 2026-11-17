@@ -35,6 +35,8 @@ Puedes volver a las salas anteriores; los enemigos derrotados se quedan derrotad
 3. Abre Godot → **Import** → selecciona `project.godot`.
 4. Pulsa **F5** (Play).
 
+   Ó descarga la versión disponible en releases en este repositorio
+
 ## Estructura
 
 ```
